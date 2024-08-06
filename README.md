@@ -23,4 +23,4 @@
 <img src="https://github.com/jwkim97211/project2/blob/main/assets/s2.png">
 <img src="https://github.com/jwkim97211/project2/blob/main/assets/s3.png">
 <img src="https://github.com/jwkim97211/project2/blob/main/assets/s4.png">
-<img src="https://github.com/user-attachments/assets/11856c85-8e43-4816-ba81-974dfe393ada">
+<img src="https://github.com/user-attachments/assets/c9ce7e32-4334-42c4-8cac-60ed09fd1be3">
