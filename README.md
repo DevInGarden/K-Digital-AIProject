@@ -17,5 +17,5 @@
 ### 구현 결과
 #### 메인페이지
 <video width="600" height="400" controls loop autoplay>
-  <source src="https://github.com/jwkim97211/project2/blob/main/assets/React%20App%20-%20Chrome%202024-08-06%2019-25-07.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/jwkim97211/project2/main/assets/React%20App%20-%20Chrome%202024-08-06%2019-25-07.mp4" type="video/mp4">
 </video>
