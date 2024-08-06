@@ -18,3 +18,7 @@
 #### 메인페이지
 <img src="https://github.com/jwkim97211/project2/blob/main/assets/main2.png">
 <img src="https://github.com/user-attachments/assets/76eb3ed0-2c4f-479e-abf0-e773256fa9bd">
+<img src="https://github.com/jwkim97211/project2/blob/main/assets/s1.png">
+<img src="https://github.com/jwkim97211/project2/blob/main/assets/s2.png">
+<img src="https://github.com/jwkim97211/project2/blob/main/assets/s3.png">
+<img src="https://github.com/jwkim97211/project2/blob/main/assets/s4.png">
