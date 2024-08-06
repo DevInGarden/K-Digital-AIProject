@@ -16,4 +16,4 @@
 
 ### 구현 결과
 #### 메인페이지
-<img src="https://github.com/user-attachments/assets/5ae27d7d-3906-4341-83fa-dfa205634b7e">
+<img src="https://github.com/user-attachments/assets/76eb3ed0-2c4f-479e-abf0-e773256fa9bd">
