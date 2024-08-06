@@ -16,4 +16,4 @@
 
 ### 구현 결과
 #### 메인페이지
-<img src="https://github.com/jwkim97211/project2/blob/main/assets/React App - Chrome 2024-08-06 19-24-52.mp4">
+<img src="https://github.com/jwkim97211/project2/assets/React App - Chrome 2024-08-06 19-24-52.mp4">
