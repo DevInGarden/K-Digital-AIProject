@@ -16,5 +16,4 @@
 
 ### 구현 결과
 #### 메인페이지
-- 출발역, 도착역 선택 X
-<img src="https://github.com/jwkim97211/project1/blob/main/assets/subway2.png">
+<img src="https://github.com/jwkim97211/project1/blob/main/assets/React App - Chrome 2024-08-06 19-24-52.mp4">
