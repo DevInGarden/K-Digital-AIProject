@@ -19,8 +19,15 @@
 <img src="https://github.com/user-attachments/assets/449ec808-4b29-46de-831f-08e22af41c1c">
 <img src="https://github.com/jwkim97211/project2/blob/main/assets/main2.png">
 <img src="https://github.com/user-attachments/assets/76eb3ed0-2c4f-479e-abf0-e773256fa9bd">
+
+#### 서비스페이지
+- 배수지별 수위, 유입유량, 유출유량 시각화(일별, 월별, 년도별)
 <img src="https://github.com/jwkim97211/project2/blob/main/assets/s1.png">
 <img src="https://github.com/jwkim97211/project2/blob/main/assets/s2.png">
 <img src="https://github.com/jwkim97211/project2/blob/main/assets/s3.png">
+
+- 배수지별 전기료 최적화
 <img src="https://github.com/jwkim97211/project2/blob/main/assets/s4.png">
+
+- 배수지별 현재 수위 시각화
 <img src="https://github.com/user-attachments/assets/c9ce7e32-4334-42c4-8cac-60ed09fd1be3">
