@@ -16,7 +16,7 @@
 
 ### 구현 결과
 #### 메인페이지
-  <img src="https://github.com/user-attachments/assets/28408f9c-3e83-482e-92a3-26c5ea22ebe6">
+  <img src="https://github.com/user-attachments/assets/28408f9c-3e83-482e-92a3-26c5ea22ebe6" width="100%">
   <img src="https://github.com/jwkim97211/project2/blob/main/assets/main2.png">
   <img src="https://github.com/user-attachments/assets/76eb3ed0-2c4f-479e-abf0-e773256fa9bd">
 
