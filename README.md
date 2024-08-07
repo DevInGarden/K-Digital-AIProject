@@ -27,11 +27,9 @@
 #### 인증페이지
 - 로그인 페이지
 <img src="https://github.com/jwkim97211/project2/blob/main/assets/login.png">
-
 - 회원가입 페이지
 <img src="https://github.com/jwkim97211/project2/blob/main/assets/regi.png">
-
--비밀번호 초기화 페이지
+- 비밀번호 초기화 페이지
 <img src="https://github.com/jwkim97211/project2/blob/main/assets/forgot.png">
 
 #### 서비스페이지
@@ -39,9 +37,7 @@
 <img src="https://github.com/jwkim97211/project2/blob/main/assets/s1.png">
 <img src="https://github.com/jwkim97211/project2/blob/main/assets/s2.png">
 <img src="https://github.com/jwkim97211/project2/blob/main/assets/s3.png">
-
 - 배수지별 전기료 최적화
 <img src="https://github.com/jwkim97211/project2/blob/main/assets/s4.png">
-
 - 배수지별 현재 수위 시각화
 <img src="https://github.com/user-attachments/assets/c9ce7e32-4334-42c4-8cac-60ed09fd1be3">
