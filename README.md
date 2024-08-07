@@ -16,12 +16,9 @@
 
 ### 구현 결과
 #### 메인페이지
-<img src="https://github.com/user-attachments/assets/4dc288c2-31bd-4016-a85c-e6992660d06a" style="width: 100%;">
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/28408f9c-3e83-482e-92a3-26c5ea22ebe6" style="width: 32%;">
-  <img src="https://github.com/jwkim97211/project2/blob/main/assets/main2.png" style="width: 32%;">
-  <img src="https://github.com/user-attachments/assets/76eb3ed0-2c4f-479e-abf0-e773256fa9bd" style="width: 32%;">
-</div>
+  <img src="https://github.com/user-attachments/assets/28408f9c-3e83-482e-92a3-26c5ea22ebe6">
+  <img src="https://github.com/jwkim97211/project2/blob/main/assets/main2.png">
+  <img src="https://github.com/user-attachments/assets/76eb3ed0-2c4f-479e-abf0-e773256fa9bd">
 
 #### 서비스페이지
 - 배수지별 수위, 유입유량, 유출유량 시각화(일별, 월별, 년도별)
