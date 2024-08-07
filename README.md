@@ -24,6 +24,16 @@
   <img src="https://github.com/jwkim97211/project2/blob/main/assets/main2.png">
   <img src="https://github.com/user-attachments/assets/76eb3ed0-2c4f-479e-abf0-e773256fa9bd">
 
+#### 인증페이지
+- 로그인 페이지
+<img src="https://github.com/jwkim97211/project2/blob/main/assets/login.png">
+
+- 회원가입 페이지
+<img src="https://github.com/jwkim97211/project2/blob/main/assets/regi.png">
+
+-비밀번호 초기화 페이지
+<img src="https://github.com/jwkim97211/project2/blob/main/assets/forgot.png">
+
 #### 서비스페이지
 - 배수지별 수위, 유입유량, 유출유량 시각화(일별, 월별, 년도별)
 <img src="https://github.com/jwkim97211/project2/blob/main/assets/s1.png">
