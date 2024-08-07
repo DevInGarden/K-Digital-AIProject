@@ -12,7 +12,10 @@
 |[<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">](https://github.com/jwkim97211)|[<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">](https://github.com/everydayday)|[<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">](https://github.com/akasha-rec)|
 
 ### 주요기능
-
+1. 로그인, 회원가입, 비밀번호 초기화
+2. 배수지와 날짜 선택 시 수위, 유출유량, 유입유량 시각화(일별, 월별, 년도별)
+3. 배수지별 전기료 최적화
+4. 모든 배수지의 수위 시각화
 
 ### 구현 결과
 #### 메인페이지
