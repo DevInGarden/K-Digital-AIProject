@@ -9,7 +9,7 @@
 |프론트엔드|백엔드|데이터분석|
 |:---:|:---:|:---:|
 |김정원|김대희|이나영|
-|[<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">](https://github.com/jwkim97211)|[<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">](https://github.com/everydayday)|[<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">](https://github.com/akasha-rec)|
+|[<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">](https://github.com/DevInGarden)|[<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">](https://github.com/everydayday)|[<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">](https://github.com/akasha-rec)|
 
 ### 주요기능
 1. 사용자 로그인, 회원가입, 비밀번호 초기화
